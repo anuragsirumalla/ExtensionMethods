@@ -1,0 +1,16 @@
+D:\innRoad\ExtensionMethods\src\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.exe
+D:\innRoad\ExtensionMethods\src\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.deps.json
+D:\innRoad\ExtensionMethods\src\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.runtimeconfig.json
+D:\innRoad\ExtensionMethods\src\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.runtimeconfig.dev.json
+D:\innRoad\ExtensionMethods\src\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.dll
+D:\innRoad\ExtensionMethods\src\ExtensionMethods\bin\Debug\net5.0\ref\ExtensionMethods.dll
+D:\innRoad\ExtensionMethods\src\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.pdb
+D:\innRoad\ExtensionMethods\src\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.csprojAssemblyReference.cache
+D:\innRoad\ExtensionMethods\src\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\innRoad\ExtensionMethods\src\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.AssemblyInfoInputs.cache
+D:\innRoad\ExtensionMethods\src\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.AssemblyInfo.cs
+D:\innRoad\ExtensionMethods\src\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\innRoad\ExtensionMethods\src\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.dll
+D:\innRoad\ExtensionMethods\src\ExtensionMethods\obj\Debug\net5.0\ref\ExtensionMethods.dll
+D:\innRoad\ExtensionMethods\src\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.pdb
+D:\innRoad\ExtensionMethods\src\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.genruntimeconfig.cache
